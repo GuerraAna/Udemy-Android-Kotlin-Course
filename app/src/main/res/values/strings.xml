@@ -11,4 +11,7 @@
     <string name="segundo_botao">Segundo Botão</string>
     <string name="terceiro_botao">Terceiro Botão</string>
     <!--Relative Layout String's-->
+    <string name="bt_first">Primeiro Botão</string>
+    <string name="bt_second">Segundo Botão</string>
+    <string name="bt_third">Terceiro Botão</string>
 </resources>
