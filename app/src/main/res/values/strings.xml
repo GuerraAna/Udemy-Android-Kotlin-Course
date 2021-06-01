@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Udemy Android Kotlin Course</string>
+    <!--Constraint Layout String's-->
+    <string name="first_button">Primeiro Botão</string>
+    <string name="second_button">2</string>
+    <string name="third_button">3</string>
+    <string name="fourth_button">4</string>
+    <string name="fifth_button">5</string>
+
+    <!--Linear Layout String's-->
 </resources>
