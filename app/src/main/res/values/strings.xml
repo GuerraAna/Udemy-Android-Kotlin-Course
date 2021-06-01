@@ -6,6 +6,9 @@
     <string name="third_button">3</string>
     <string name="fourth_button">4</string>
     <string name="fifth_button">5</string>
-
     <!--Linear Layout String's-->
+    <string name="primeiro_botao">Primeiro Botão</string>
+    <string name="segundo_botao">Segundo Botão</string>
+    <string name="terceiro_botao">Terceiro Botão</string>
+    <!--Relative Layout String's-->
 </resources>
